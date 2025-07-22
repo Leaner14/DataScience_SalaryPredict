@@ -10,12 +10,13 @@ This project predicts the salary of data science professionals based on various 
 - Streamlit interface for interactive user input
 - Visualizations matplotlib
 - Saved model and encoders using joblib
-- 
-  <h4>Project Workflow</h4>
+
+
+<h4>Project Workflow</h4>
 
 <h5>1. Data Preprocessing</h5>
-   - Handle missing values
-   - Encode categorical variables using `LabelEncoder`
+   - Handle missing values<br>
+   - Encode categorical variables using `LabelEncoder`<br>
   
 
 <h5>2. Model Training</h5>
