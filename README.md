@@ -28,6 +28,7 @@ This project predicts the salary of data science professionals based on various 
    - Feature importance visualization<br>
 
 <h5>4. Result</h5>
-   - MAE:  <br>
-   - RMSE: <br>
-   - R² Score:<br>
+
+   - MAE: 957.4296786173261<br>
+   - RMSE: 4431.804635661977 <br>
+   - R² Score: 0.996337643891413<br>
