@@ -11,8 +11,7 @@ This project predicts the salary of data science professionals based on various 
 - Visualizations matplotlib
 - Saved model and encoders using joblib
 
-
-##Project Workflow
+<h2>Project Workflow</h2>
 
 <h5>1. Data Preprocessing</h5>
    - Handle missing values<br>
